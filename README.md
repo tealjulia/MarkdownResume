@@ -56,9 +56,9 @@ With a record of results-oriented, data-driven decision making and persistence a
 - Wordpress
 
 ### Education
-##### Full Stack Web Development Bootcamp __2020__
+#### Full Stack Web Development Bootcamp __2020__
 Kal Academy (Redmond, WA), MEAN and MERN stack development
-##### Bachelor of Education (Language, Literacy, and Cultural Studies) __2011 to 2014__
+#### Bachelor of Education (Language, Literacy, and Cultural Studies) __2011 to 2014__
 Western Washington University, Bellingham, WA
 
 *Graduated Magna Cum Laude -- 3.94 GPA*
