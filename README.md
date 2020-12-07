@@ -60,4 +60,5 @@ With a record of results-oriented, data-driven decision making and persistence a
 Kal Academy (Redmond, WA), MEAN and MERN stack development
 ##### Bachelor of Education (Language, Literacy, and Cultural Studies) __2011 to 2014__
 Western Washington University, Bellingham, WA
+
 *Graduated Magna Cum Laude -- 3.94 GPA*
