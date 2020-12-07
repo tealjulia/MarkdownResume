@@ -12,7 +12,7 @@ With a record of results-oriented, data-driven decision making and persistence a
 ### Experience
 
 **Web Development Freelance** --  __July 2020 to present__
-- Current projects include: leading a team in design and development of a photo-sharing social network utilizing React, Express, Angular; building a single page application for a local birth center to track provider and suite availability; and developing a multi-page site for a local 501c3 using a CMS, including adding ecommerce features, historical archives, and more.
+- Current projects include: Scrum master for team in design and development of a photo-sharing social network utilizing React, Express, Angular; building a single page application for a local birth center to track provider and suite availability; and developing a multi-page site for a local 501c3 using a CMS, including adding ecommerce features, historical archives, and more.
 - Growing conversion and site click-throughs for local small businesses by consulting on SEO and accessibility ideas. 
 
 **Joyful Noise Birth** *Birth Doula & Principal* __2018 to 2020__
@@ -42,13 +42,22 @@ With a record of results-oriented, data-driven decision making and persistence a
 
 * **TVRepositorium**
   [Browse Code](https://github.com/web-developement-2020/tv-maze-app)
-  <a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
-
+	Web application connected to TV Maze API allowing users to look up shows that evening or search for shows to see their details. *Angular, TypeScript, HTML, CSS, AngularMaterial.*
 ------
+
+### Technical Skills
+- ReactJS
+- Express
+- JavaScript
+- Angular
+- MongoDB
+- Git
+- JQuery
+- Wordpress
 
 ### Education
 ##### Full Stack Web Development Bootcamp __2020__
 Kal Academy (Redmond, WA), MEAN and MERN stack development
 ##### Bachelor of Education (Language, Literacy, and Cultural Studies) __2011 to 2014__
 Western Washington University, Bellingham, WA
+*Graduated Magna Cum Laude -- 3.94 GPA*
